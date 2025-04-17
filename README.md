@@ -2,6 +2,10 @@
 
 **Surrogate Model**
 
+Machine learning approaches for estimating commercial building energy consumption
+
+https://www.sciencedirect.com/science/article/pii/S0306261917313429
+
 ArchiDiffusion: A novel diffusion model connecting architectural layout generation from sketches to Shear Wall Design
 
 https://www.sciencedirect.com/science/article/pii/S2352710224029413
