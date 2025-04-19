@@ -10,6 +10,10 @@ ArchiDiffusion: A novel diffusion model connecting architectural layout generati
 
 https://www.sciencedirect.com/science/article/pii/S2352710224029413
 
+Predictive models for daylight performance of general floorplans based on CNN and GAN: A proof-of-concept study
+
+https://www.sciencedirect.com/science/article/pii/S0360132321007435?casa_token=_S2folCGbFEAAAAA:0vPoQl_h9JO0G2TRnI1PjVy4SIKPTEY_EgVwo4iVWyFzvGyZ9RLFQ0mVOE2TvJ_7Xe-PdFpJZao
+
 **Urban Building Energy Modeling (UBEM)**
 
 Understanding building energy efficiency with administrative and emerging urban big data by deep learning in Glasgow
