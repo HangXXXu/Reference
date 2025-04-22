@@ -14,6 +14,10 @@ Predictive models for daylight performance of general floorplans based on CNN an
 
 https://www.sciencedirect.com/science/article/pii/S0360132321007435?casa_token=_S2folCGbFEAAAAA:0vPoQl_h9JO0G2TRnI1PjVy4SIKPTEY_EgVwo4iVWyFzvGyZ9RLFQ0mVOE2TvJ_7Xe-PdFpJZao
 
+HouseDiffusion: Vector floorplan generation via a diffusion model with discrete and continuous denoising
+
+https://openaccess.thecvf.com/content/CVPR2023/html/Shabani_HouseDiffusion_Vector_Floorplan_Generation_via_a_Diffusion_Model_With_Discrete_CVPR_2023_paper.html
+
 **Urban Building Energy Modeling (UBEM)**
 
 Understanding building energy efficiency with administrative and emerging urban big data by deep learning in Glasgow
