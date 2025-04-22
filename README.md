@@ -31,3 +31,7 @@ https://www.sciencedirect.com/science/article/pii/S0378778825001872
 Urban building energy performance prediction and retrofit analysis using data-driven machine learning approach
 
 https://www.sciencedirect.com/science/article/pii/S0378778823009982
+
+**Urban Modeling**
+
+VoxCity: A Seamless Framework for Open Geospatial Data Integration, Grid-Based Semantic 3D City Model Generation, and Urban Environment Simulation
