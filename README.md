@@ -35,3 +35,7 @@ https://www.sciencedirect.com/science/article/pii/S0378778823009982
 **Urban Modeling**
 
 VoxCity: A Seamless Framework for Open Geospatial Data Integration, Grid-Based Semantic 3D City Model Generation, and Urban Environment Simulation
+
+**Urban Tree Canopy**
+
+https://aerometrex.com.au/resources/blog/urban-tree-canopy-management-and-lidar/
