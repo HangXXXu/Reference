@@ -18,6 +18,7 @@ HouseDiffusion: Vector floorplan generation via a diffusion model with discrete 
 
 https://openaccess.thecvf.com/content/CVPR2023/html/Shabani_HouseDiffusion_Vector_Floorplan_Generation_via_a_Diffusion_Model_With_Discrete_CVPR_2023_paper.html
 
+
 **Urban Building Energy Modeling (UBEM)**
 
 Understanding building energy efficiency with administrative and emerging urban big data by deep learning in Glasgow
@@ -32,9 +33,22 @@ Urban building energy performance prediction and retrofit analysis using data-dr
 
 https://www.sciencedirect.com/science/article/pii/S0378778823009982
 
+
+**Mircoclimate and UBEM**
+
+Urban Microclimate and Energy Modeling: A Review of Integration Approaches
+
+https://www.mdpi.com/2071-1050/17/7/3025
+
+Exploring the integration of urban climate models and urban building energy models through shared databases: a review
+
+https://link.springer.com/article/10.1007/s00704-025-05501-3
+
+
 **Urban Modeling**
 
 VoxCity: A Seamless Framework for Open Geospatial Data Integration, Grid-Based Semantic 3D City Model Generation, and Urban Environment Simulation
+
 
 **Urban Tree Canopy**
 
