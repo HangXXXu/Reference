@@ -18,6 +18,7 @@ HouseDiffusion: Vector floorplan generation via a diffusion model with discrete 
 
 https://openaccess.thecvf.com/content/CVPR2023/html/Shabani_HouseDiffusion_Vector_Floorplan_Generation_via_a_Diffusion_Model_With_Discrete_CVPR_2023_paper.html
 
+LightDiffNet: A Diffusion-based Predictive Model for Daylight Performance in General Floorplans
 
 **Urban Building Energy Modeling (UBEM)**
 
